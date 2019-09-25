@@ -1,0 +1,11 @@
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\PetiDan1\PetiDanforms\bin\Debug\PetiDanforms.exe.config
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\PetiDan1\PetiDanforms\bin\Debug\PetiDanforms.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\PetiDan1\PetiDanforms\bin\Debug\PetiDanforms.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\PetiDan1\PetiDanforms\obj\Debug\PetiDanforms.csprojAssemblyReference.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\PetiDan1\PetiDanforms\obj\Debug\PetiDanforms.Form1.resources
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\PetiDan1\PetiDanforms\obj\Debug\PetiDanforms.Properties.Resources.resources
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\PetiDan1\PetiDanforms\obj\Debug\PetiDanforms.csproj.GenerateResource.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\PetiDan1\PetiDanforms\obj\Debug\PetiDanforms.csproj.CoreCompileInputs.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\PetiDan1\PetiDanforms\obj\Debug\PetiDanforms.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\PetiDan1\PetiDanforms\obj\Debug\PetiDanforms.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\PetiDan1\PetiDanforms\obj\Debug\PetiDanforms.Form2.resources
